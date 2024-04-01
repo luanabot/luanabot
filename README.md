@@ -1,8 +1,8 @@
 ### Oi, joia? Sou a Lu! 👋
 
-  💻Cursando ciência da computação
--  📚Atualmente estudando Python e JavaScript
--  😊Pronouns: ela/dela 
+💻Cursando ciência da computação</br>
+📚Atualmente estudando Python e JavaScript</br>
+😊Pronouns: ela/dela 
 <br/>
 <div>
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=luanabot&show_icons=false&theme=midnight-purple"/>
